@@ -1,0 +1,8 @@
+{
+  "name": "weatherlog",
+  "description": "Log weather data from HomeMatic CCU sensors to a CSV file",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+  }
+}
